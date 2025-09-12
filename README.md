@@ -14,7 +14,7 @@ con equipos multidisciplinarios, garantizando interfaces de alta calidad y exper
 - [👤 GitHub User Finder](https://github-u-finder.netlify.app/)
 - [🕴 Portfolio](https://portfolio-mind-developer.netlify.app/)
 - [📊 GitHub Repositories Explorer](https://frontend-api-github-mind.netlify.app/)
-- <a href="https://app-votaciones-2022.netlify.app/" target="_blank">🗳️ Plataforma Informativa de Votaciones 2022</a>
+- [🗳️ Plataforma Informativa de Votaciones 2022](https://app-votaciones-2022.netlify.app/)
 - [🚗 Boceto informativo](https://prueba-jsnativo-jquery.netlify.app/)
 
 ## 📫 Encuéntrame en:
