@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋, soy Maichol Mindiola Joiro
+Ingeniero Mecatrónico y Desarrollador de Software con 4 años de experiencia en el desarrollo de aplicaciones web modernas y
+escalables. Especializado en Angular, React, TypeScript y JavaScript (ES6+), con sólidos conocimientos en consumo de APIs
+RESTful y GraphQL, optimización de rendimiento y diseño responsive. Experiencia liderando proyectos remotos y colaborando
+con equipos multidisciplinarios, garantizando interfaces de alta calidad y experiencias de usuario excepcionales.
 
-<!--
-**Maichind/Maichind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌎 Sobre mí
+- 🔭 Actualmente: trabajando en proyectos con **Angular 20** y **React 18**.
+- 🌱 Aprendiendo: AWS y despliegues en la nube.  
+- 🏍️ Hobby: viajar en motocicleta. 
 
-Here are some ideas to get you started:
+## 🚀 Proyectos:
+- [📄 Todo app](https://m-zen-tasks.netlify.app/)
+- [👤 GitHub User Finder](https://github-u-finder.netlify.app/)
+- [🕴 Portfolio](https://portfolio-mind-developer.netlify.app/)
+- [📊 GitHub Repositories Explorer](https://frontend-api-github-mind.netlify.app/)
+- [🗳️ Plataforma Informativa de Votaciones 2022](https://app-votaciones-2022.netlify.app/)
+- [🚗 Boceto informativo](https://prueba-jsnativo-jquery.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Encuéntrame en:
+- [💼 LinkedIn](https://linkedin.com/in/mmindiola/)
+- [📷 Instagram](https://www.instagram.com/mindiola._)
+- 📧 mmindiola.dev@gmail.com
