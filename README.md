@@ -10,11 +10,12 @@ con equipos multidisciplinarios, garantizando interfaces de alta calidad y exper
 - 🏍️ Hobby: viajar en motocicleta. 
 
 ## 🚀 Proyectos:
+- [🕴 New Portfolio](https://portfolio-mind.netlify.app/)
 - [📄 Todo app](https://m-zen-tasks.netlify.app/)
 - [👤 GitHub User Finder](https://github-u-finder.netlify.app/)
-- [🕴 Portfolio](https://portfolio-mind-developer.netlify.app/)
 - [📊 GitHub Repositories Explorer](https://frontend-api-github-mind.netlify.app/)
 - [🗳️ Plataforma Informativa de Votaciones 2022](https://app-votaciones-2022.netlify.app/)
+- [🕴 Portfolio v1](https://portfolio-mind-developer.netlify.app/)
 - [🚗 Boceto informativo](https://prueba-jsnativo-jquery.netlify.app/)
 
 ## 📫 Encuéntrame en:
