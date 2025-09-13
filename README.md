@@ -6,7 +6,7 @@ con equipos multidisciplinarios, garantizando interfaces de alta calidad y exper
 
 ## 🌎 Sobre mí
 - 🔭 Actualmente: trabajando en proyectos con **Angular 20** y **React 18**.
-- 🌱 Aprendiendo: AWS y despliegues en la nube.  
+- 🌱 Aprendiendo: Next.js, AWS y despliegues en la nube.  
 - 🏍️ Hobby: viajar en motocicleta. 
 
 ## 🚀 Proyectos:
