@@ -10,6 +10,7 @@ con equipos multidisciplinarios, garantizando interfaces de alta calidad y exper
 - 🏍️ Hobby: viajar en motocicleta. 
 
 ## 🚀 Proyectos:
+- [🪢 Macramé Store](https://macrame-ecommerce.vercel.app/)
 - [🕴 New Portfolio](https://portfolio-mind.netlify.app/)
 - [📄 Todo app](https://m-zen-tasks.netlify.app/)
 - [👤 GitHub User Finder](https://github-u-finder.netlify.app/)
